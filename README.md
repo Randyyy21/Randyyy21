@@ -1,4 +1,5 @@
 # 💫 About Me:
+Seperti malam hari yg gelap gulita.<br>Aku akan membuat hari mu semakin sengsara.<br>Halo aku Randy si anak gembala
 Saya adalah seorang Front End web development. saya lulusan dari jurusan multimedia
 
 
@@ -15,7 +16,7 @@ Saya adalah seorang Front End web development. saya lulusan dari jurusan multime
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Randyyy21&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
 ### ✍️ Jiko anak mama
-![](Seperti malam hari yg gelap gulita.<br>Aku akan membuat hari mu semakin sengsara.<br>Halo aku Randy si anak gembala)
+![](https://www.instagram.com/p/C1B1mzDvzJACiEOpX25j79zcdbIU09cLJBX8YQ0/?igsh=MWg2Z2R3dTc0MjR1NQ==)
 
 
 
