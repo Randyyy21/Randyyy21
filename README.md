@@ -1,5 +1,5 @@
 # 💫 About Me:
-Seperti malam hari yg gelap gulita.<br>Aku akan membuat hari mu semakin sengsara.<br>Halo aku Randy si anak gembala.<br>Saya adalah seorang Front End web development
+Saya adalah seorang Front End web development. saya lulusan dari jurusan multimedia
 
 
 ## 🌐 Socials:
@@ -14,7 +14,9 @@ Seperti malam hari yg gelap gulita.<br>Aku akan membuat hari mu semakin sengsara
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Randyyy21&theme=vue&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Randyyy21&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+### ✍️ Jiko anak mama
+![](Seperti malam hari yg gelap gulita.<br>Aku akan membuat hari mu semakin sengsara.<br>Halo aku Randy si anak gembala)
+
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
