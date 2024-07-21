@@ -1,6 +1,6 @@
 # 💫 About Me:
-Seperti malam hari yg gelap gulita.<br>Aku akan membuat hari mu semakin sengsara.<br>Halo aku Randy si anak gembala
-Saya adalah seorang Front End web development. saya lulusan dari jurusan multimedia
+Seperti malam hari yg gelap gulita.<br> Aku akan membuat hari mu semakin sengsara.<br> Halo aku Randy si anak gembala
+<br> Saya adalah seorang Front End web development. saya lulusan dari jurusan multimedia
 
 
 ## 🌐 Socials:
