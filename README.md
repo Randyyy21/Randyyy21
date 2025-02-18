@@ -1,18 +1,75 @@
-# 💫 About Me:
-Seperti malam hari yg gelap gulita.<br> Aku akan membuat hari mu semakin sengsara.<br> Halo aku Randy si anak gembala
-<br> Saya adalah seorang Front End web development. saya lulusan dari jurusan multimedia
+<div align="center">
+  <h2>Welcome!</h2>
+  <img src="https://user-images.githubusercontent.com/74038190/226127927-3feb953e-cc01-482e-b732-311b2907991f.gif" height="250" width="250" />
+</div>
 
+---
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/543014832606019584) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/randy85__) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/exty65) 
+## My Skill Set  
+<div align="center">
+<table>
+<tr>
+  <td valign="top" width="33%" align="center">
+    <h3>Frontend</h3>
+    <div>  
+      <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JavaScript" height="50" />
+      </a>  
+      <a href="https://www.tailwindcss.com/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" />
+      </a>  
+      <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" alt="Bootstrap" height="50" />
+      </a>  
+      <a href="https://nextjs.org/" target="_blank">
+        <img src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" />
+      </a>  
+    </div>
+  </td>
+  
+  <td valign="top" width="33%" align="center">
+    <h3>Backend</h3>
+    <div>  
+      <a href="https://www.javascript.com/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" alt="JavaScript" height="50" />
+      </a>  
+      <a href="https://www.mongodb.com/" target="_blank">
+        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200620-398b19b1-9aae-4c1f-8bc0-d172a2c08d68.gif" alt="MongoDB" height="50" />
+      </a>  
+      <a href="https://expressjs.com/" target="_blank">
+        <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/238200441-1a797f46-efe4-41e6-9e75-5303e1bbcbfa.gif" alt="Express.js" height="50" />
+      </a>  
+    </div>
+  </td>
+  
+  <td valign="top" width="33%" align="center">
+    <h3>DevOps</h3>
+    <div>  
+      <a href="https://github.com/" target="_blank">
+        <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" alt="Git" height="50" />
+      </a>  
+    </div>
+  </td>
+</tr>
+</table>
+</div>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=plastic&logo=nodemon&logoColor=%BBDEAD) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=plastic&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=plastic&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=plastic&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=plastic&logo=adobe%20photoshop&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=plastic&logo=Adobe%20Premiere%20Pro&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=plastic&logo=postman&logoColor=white)
+---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Randyyy21&theme=vue&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Randyyy21&theme=vue&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Randyyy21&theme=vue&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## Connect with Me  
+<div align="center">
+  <a href="https://github.com/Randyyy21" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="GitHub" height="50" style="margin: 10px;" />
+  </a>
+  <a href="https://twitter.com/exty65" target="_blank">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/cc4fe88c-7f7a-41d8-b449-34b7a178c1c6" alt="Twitter" height="50" style="margin: 10px;" />
+  </a>
+  <a href="https://instagram.com/randy85__" target="_blank">
+    <img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" alt="Instagram" height="50" style="margin: 10px;" />
+  </a>  
+</div>  
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+## GitHub Stats  
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Randyyy21&show_icons=true&count_private=true&hide_border=true" align="center" /></div> 
