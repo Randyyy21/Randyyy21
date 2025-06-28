@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Welcome to My Digital Universe!
+# Welcome to My Digital Universe!
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer;Tech+Enthusiast;Problem+Solver;Always+Learning+New+Things" alt="Typing SVG" />
 
@@ -10,7 +10,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
@@ -24,11 +24,11 @@
 
 ---
 
-## 🛠️ Tech Arsenal
+## Tech
 
 <div align="center">
 
-### 🎨 Frontend Development
+### Frontend Development
 <table>
 <tr>
 <td align="center" width="96">
@@ -64,7 +64,7 @@
 </tr>
 </table>
 
-### ⚙️ Backend Development
+### Backend Development
 <table>
 <tr>
 <td align="center" width="96">
@@ -88,7 +88,7 @@
 </tr>
 </table>
 
-### 🔧 Tools & DevOps
+### Tools & DevOps
 <table>
 <tr>
 <td align="center" width="96">
@@ -116,8 +116,6 @@
 
 ---
 
-## 📊 GitHub Analytics
-
 <div align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Randyyy21&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randyyy21&layout=compact&langs_count=7&theme=tokyonight"/>
@@ -125,15 +123,13 @@
 
 ---
 
-## 🐍 Contribution Graph
-
 <div align="center">
 <img src="https://github.com/Randyyy21/Randyyy21/blob/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
 
-## 🌐 Let's Connect!
+## Media Sosial
 
 <div align="center">
 
@@ -153,10 +149,11 @@
 
 </div>
 
-<h2>Listening To Spotify</h2>
+<h2> Listening To Spotify</h2>
 <div align="center">
-    <a href="[[https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31n2jng6zlo7iqwdxxuwm75n7duy&redirect=true][https://spotify-github-profile.kittinanx.com/api/view.svg?uid=31n2jng6zlo7iqwdxxuwm75n7duy&cover_image=true&theme=default&show_offline=true&background_color=b82828&interchange=true&bar_color=444850&bar_color_cover=true)]]">
-    </a>
+  <a href="https://open.spotify.com/user/31n2jng6zlo7iqwdxxuwm75n7duy">
+    <img src="https://spotify-github-profile.kittinan.vercel.app/api/view.svg?uid=31n2jng6zlo7iqwdxxuwm75n7duy&cover_image=true&theme=default&show_offline=true&background_color=b82828&interchange=true&bar_color=444850&bar_color_cover=true" alt="Spotify Now Playing" />
+  </a>
 </div>
 
 ---
