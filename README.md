@@ -68,12 +68,6 @@
 <table>
 <tr>
 <td align="center" width="96">
-<a href="https://nodejs.org/">
-<img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="Node.js" width="65" height="65" />
-</a>
-<br>Node.js
-</td>
-<td align="center" width="96">
 <a href="https://expressjs.com/">
 <img src="https://skillicons.dev/icons?i=express" width="65" height="65" alt="Express" />
 </a>
@@ -114,12 +108,6 @@
 <img src="https://skillicons.dev/icons?i=vscode" width="65" height="65" alt="VS Code" />
 </a>
 <br>VS Code
-</td>
-<td align="center" width="96">
-<a href="https://www.docker.com/">
-<img src="https://skillicons.dev/icons?i=docker" width="65" height="65" alt="Docker" />
-</a>
-<br>Docker
 </td>
 </tr>
 </table>
@@ -170,12 +158,5 @@
 
 ### 💭 Random Dev Quote
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
-
-### 👀 Profile Views
-<img src="https://komarev.com/ghpvc/?username=Randyyy21&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
-
-### ⭐ Star this repo if you found it helpful!
 
 </div>
