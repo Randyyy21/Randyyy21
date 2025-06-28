@@ -157,9 +157,7 @@
 
 <div align="center">
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31n2jng6zlo7iqwdxxuwm75n7duy)
-
-**🎧 Always listening to great music while coding!**
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31n2jng6zlo7iqwdxxuwm75n7duy&unique={true|1|on|yes})
 
 </div>
 
