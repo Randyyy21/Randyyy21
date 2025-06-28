@@ -123,14 +123,6 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Randyyy21&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Randyyy21&theme=tokyonight" alt="GitHub Streak" />
-</div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Randyyy21&theme=tokyonight&row=1&column=7" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 🐍 Contribution Graph
@@ -160,3 +152,13 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 
 </div>
+
+## 🎵 Currently Vibing To
+
+<div align="center">
+
+[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31n2jng6zlo7iqwdxxuwm75n7duy&count=1&unique=true)](https://open.spotify.com/user/31n2jng6zlo7iqwdxxuwm75n7duy)
+
+</div>
+
+---
