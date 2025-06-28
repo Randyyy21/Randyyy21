@@ -157,7 +157,7 @@
 
 <div align="center">
 
-[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31n2jng6zlo7iqwdxxuwm75n7duy)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31n2jng6zlo7iqwdxxuwm75n7duy)
 
 **🎧 Always listening to great music while coding!**
 
