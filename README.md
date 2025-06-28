@@ -153,12 +153,11 @@
 
 </div>
 
-## 🎵 Sportify
-
+<h2>Listening To Spotify</h2>
 <div align="center">
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31n2jng6zlo7iqwdxxuwm75n7duy)
-
+    <a href="https://open.spotify.com/user/31n2jng6zlo7iqwdxxuwm75n7duy">
+        <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31n2jng6zlo7iqwdxxuwm75n7duy&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile" />
+    </a>
 </div>
 
 ---
