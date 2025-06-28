@@ -153,11 +153,13 @@
 
 </div>
 
-## 🎵 Currently Vibing To
+## 🎵 Sportify
 
 <div align="center">
 
-[![Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31n2jng6zlo7iqwdxxuwm75n7duy&count=1&unique=true)](https://open.spotify.com/user/31n2jng6zlo7iqwdxxuwm75n7duy)
+[![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/31n2jng6zlo7iqwdxxuwm75n7duy)
+
+**🎧 Always listening to great music while coding!**
 
 </div>
 
